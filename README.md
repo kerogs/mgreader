@@ -1,3 +1,8 @@
+> [!IMPORTANT]  
+> **PyHwa is no longer maintained or up to date.**  
+> A new version is available: **[StrangeBird](https://github.com/kerogs/StrangeBird)**.  
+> This version is more stable, more advanced, and easier to develop and use.
+
 <div align="center">
     <img alt="Logo" src=".ksinf/pyhwa.svg" height="120">
     <h3>PyHwa</h3>
